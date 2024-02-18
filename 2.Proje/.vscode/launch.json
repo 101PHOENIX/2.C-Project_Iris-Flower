@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Casper/Desktop/DORUK_SEZER/2. SINIF 1. DÖNEM/CLION (C) BİLGİSAYAR PROGRAMLAMA 3/2.PROJE/BP3_2.PROJE.c/2.Proje",
+      "program": "c:/Users/Casper/Desktop/DORUK_SEZER/2. SINIF 1. DÖNEM/CLION (C) BİLGİSAYAR PROGRAMLAMA 3/2.PROJE/BP3_2.PROJE.c/2.Proje/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
